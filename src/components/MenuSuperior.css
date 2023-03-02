@@ -1,0 +1,13 @@
+.container {
+    background-color: rgb(43, 103, 233);
+}
+
+.navbar {
+    height: 50px;
+    min-width: 100%;
+    background-color: rgba(0, 255, 0, 0.5);
+    display: table;
+    table-layout: fixed;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
